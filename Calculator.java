@@ -29,10 +29,10 @@ public class Calculator extends JFrame {
   private JButton btnDot;
   private JButton btnEqual;
   private JButton btnAddition;
-  private JButton btnMPlus; // Botón para acumular en la memoria
-  private JButton btnMR; // Botón para leer la memoria
-  private JButton btnMC; // Botón para borrar la memoria
-  private JButton btnC; // Botón para borrar todo
+  private JButton btnMPlus; // Button to add in memory
+  private JButton btnMR; // Button to read the number in memory
+  private JButton btnMC; // Button to clear memory
+  private JButton btnC; // Button to clear the result screen
 
   private double accumulator = 0.0; // To save the result
   private double memory = 0.0; // To store the memory value
@@ -221,7 +221,6 @@ public class Calculator extends JFrame {
     private void clearAll() {
       txtDisplay.setText("0");
       accumulator = 0.0;
-      // memory = 0.0;
       operator = "=";
       firstDigit = true;
     }
