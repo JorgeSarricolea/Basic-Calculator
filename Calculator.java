@@ -102,7 +102,7 @@ public class Calculator extends JFrame {
     btnAddition = new JButton("+");
     panelButtons.add(btnAddition);
 
-    // Botones para memoria y limpiar
+    // Memory and clear buttons
     btnMPlus = new JButton("M+");
     panelButtons.add(btnMPlus);
     btnMR = new JButton("MR");
