@@ -19,7 +19,8 @@ To get started with "Basic-Calculator", follow these simple steps:
 
 ### Prerequisites
 
-> [!IMPORTANT] > **Java:** Ensure that you have Java installed on your system.
+> [!IMPORTANT]
+> **Java:** Ensure that you have Java installed on your system.
 
 ### Installation
 
