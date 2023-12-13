@@ -54,4 +54,3 @@ While contributions to this project are welcome. If you would like to contribute
 ## Copyright
 
 This project was created by [Jorge Sarricolea](https://jorgesarricolea.com). if you have any specific code questions or would like to chat about programming, feel free to contact me on [WhatsApp](https://wa.me/529381095593).
-```
